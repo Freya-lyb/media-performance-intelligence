@@ -1,5 +1,5 @@
 # Media Performance Intelligence: TV Attribution & Advertising Analytics
-
+![Dashboard Preview](visuals/hero_dashboard.png)
 ## Overview
 
 A media performance intelligence case study exploring television advertising efficiency, attribution reliability, and network-level optimization through Python analytics and Tableau dashboards.

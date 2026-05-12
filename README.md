@@ -1,12 +1,11 @@
 # Media Performance Intelligence
 ## TV Attribution & Advertising Analytics
-![Python](https://img.shields.io/badge/Python-Analytics-blue)
-![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-orange)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-lightgrey)
-![Attribution](https://img.shields.io/badge/Focus-TV%20Attribution-green)
-![Analytics](https://img.shields.io/badge/Type-Media%20Analytics-purple)
-![Dashboarding](https://img.shields.io/badge/Visualization-Executive%20Dashboards-red)
-
+![Python](https://img.shields.io/badge/Python-Analytics-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-orange?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-lightgrey?style=for-the-badge)
+![Attribution](https://img.shields.io/badge/Focus-TV%20Attribution-green?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Type-Media%20Analytics-purple?style=for-the-badge)
+![Dashboarding](https://img.shields.io/badge/Visualization-Executive%20Dashboards-red?style=for-the-badge)
 ## Overview
 
 A media performance intelligence case study exploring television advertising efficiency, attribution reliability, and network-level optimization through Python analytics and Tableau dashboards.

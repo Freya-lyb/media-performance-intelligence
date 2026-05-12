@@ -1,14 +1,10 @@
-# Media Performance Intelligence: TV Attribution & Advertising Analytics
+# Media Performance Intelligence
+## TV Attribution & Advertising Analytics
 ![Python](https://img.shields.io/badge/Python-Analytics-blue)
-
 ![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-orange)
-
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-lightgrey)
-
 ![Attribution](https://img.shields.io/badge/Focus-TV%20Attribution-green)
-
 ![Analytics](https://img.shields.io/badge/Type-Media%20Analytics-purple)
-
 ![Dashboarding](https://img.shields.io/badge/Visualization-Executive%20Dashboards-red)
 
 ## Overview
